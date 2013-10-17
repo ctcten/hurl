@@ -19,7 +19,7 @@ Below is a list of people who have contributed to `hurl.it`.
 * John Sheehan <johnsheehan@gmail.com>
 * Kevin Burke <kevin@twilio.com>
 * Leon <idealhack@gmail.com>
-* Maksim Berjoza <andrewmbenton@gmail.com>
+* Maksim Berjoza <andrewmbenton+maksimberjoza@gmail.com>
 * Mark Paschal <chris@ozmm.org>
 * Mislav Marohnić <chris@ozmm.org>
 * Neal Poole <neal@nealpoole.com>
